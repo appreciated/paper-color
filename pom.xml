@@ -3,7 +3,7 @@
 
     <groupId>com.github.appreciated</groupId>
     <artifactId>paper-color</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>0.7</version>
     <name>Paper Color</name>
     <description>Integration of l2t-paper-color for Vaadin 10</description>
 
