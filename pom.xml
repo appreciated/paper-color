@@ -8,7 +8,7 @@
     <description>Integration of l2t-paper-color for Vaadin 10</description>
 
     <properties>
-        <vaadin.version>10.0.10</vaadin.version>
+        <vaadin.version>10.0.19</vaadin.version>
 
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
